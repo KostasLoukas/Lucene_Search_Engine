@@ -7,5 +7,6 @@ of the project before running it.
 The application's UI is a simple command line (of the Eclipse IDE specifically).
 
 The starting screen looks like this:
+
 ![1](https://user-images.githubusercontent.com/105225491/177014656-dbbc24e6-f31a-4b5d-a1c8-76237e83425a.png)
 
