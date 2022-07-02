@@ -1,1 +1,1 @@
-# Lucene_Search_Engine
+# Lucene Search Engine for Reuters' Articles
